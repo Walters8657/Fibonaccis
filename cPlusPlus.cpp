@@ -1,5 +1,5 @@
-#include <iostream>
-using namespace std;
+#include <iostream> //User input and system output
+using namespace std; //Keeps from using std:: all over the place
 
 void fib(int n) {
     int f1 = 0, f2 = 1;

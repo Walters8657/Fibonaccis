@@ -15,7 +15,7 @@ function fib(n) {
     }
 }
 
-const readline = require("readline");
+const readline = require("readline"); //For user input
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
